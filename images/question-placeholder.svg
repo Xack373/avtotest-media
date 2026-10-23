@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="480" viewBox="0 0 900 480">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#192431"/><stop offset="1" stop-color="#10161f"/></linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5d77c"/><stop offset="1" stop-color="#c9952f"/></linearGradient>
+  </defs>
+  <rect width="900" height="480" rx="28" fill="url(#bg)"/>
+  <circle cx="450" cy="216" r="132" fill="#202c39" stroke="#344253" stroke-width="3"/>
+  <circle cx="450" cy="216" r="106" fill="none" stroke="url(#gold)" stroke-width="8" stroke-dasharray="470 196" transform="rotate(-90 450 216)"/>
+  <path d="M450 143 L450 244 M450 244 L382 298 M450 244 L518 298" fill="none" stroke="#e7b94c" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="450" cy="216" r="22" fill="#e7b94c"/>
+  <rect x="299" y="355" width="302" height="50" rx="25" fill="#e7b94c" fill-opacity=".13" stroke="#e7b94c" stroke-opacity=".5"/>
+  <text x="450" y="387" text-anchor="middle" font-family="Arial,sans-serif" font-size="21" font-weight="700" fill="#f4d477">SAVOL RASMI</text>
+  <text x="450" y="444" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#9cacbd">Rasmni media/images papkasidan ulang</text>
+  <circle cx="91" cy="75" r="4" fill="#e7b94c" opacity=".8"/><circle cx="118" cy="75" r="4" fill="#e7b94c" opacity=".35"/><circle cx="145" cy="75" r="4" fill="#e7b94c" opacity=".2"/>
+  <circle cx="755" cy="80" r="4" fill="#e7b94c" opacity=".8"/><circle cx="782" cy="80" r="4" fill="#e7b94c" opacity=".35"/><circle cx="809" cy="80" r="4" fill="#e7b94c" opacity=".2"/>
+</svg>
